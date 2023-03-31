@@ -25,6 +25,17 @@
 		<li>The app may have difficulty detecting letters if your hand is not positioned correctly or if your fingers are not clearly visible. 👋🏼🤚🏼</li>
 	</ul>
 	<h2>Acknowledgements</h2>
-	<p>We would like to thank Google for providing the Teachable Machine platform and the TensorFlow, OpenCV, and MediaPipe communities for their excellent software packages. 🙏🏼👏🏼👨‍💻</p>
+	<ul>
+		<li>We would like to thank GDSC and Google Solutions Challenge for creating Competitive Enviroment.</li>
+		<li>We also thank Google for providing the Teachable Machine platform and the TensorFlow, OpenCV, and MediaPipe communities for their excellent software packages. 🙏🏼👏🏼👨‍💻</li>
+	</ul>
+	<h1>Contributors</h1>
+	<ol>
+		<li>Sahil Sahu <a href="https://github.com/ssahil369">(ssahil369)</a></li>
+		<li>Tanmay Murkute <a href="https://github.com/zyfrost">(zyfrost)</a></li>
+		<li>Shivsagar Mishra <a href="https://github.com/sagarmishra1103">(sagarmishra1103)</a></li>
+		<li>Gayatri Mestry <a href="https://github.com/agyaa">(agyaa)</a></li>
+	</ol>
+	
 </body>
-</html>
+
